@@ -1,2 +1,2 @@
 # Play-2048-on-your-browser
-PS- Twist : Computer will play the game for you. The moves are pseudorandom . Want real random? Give me quantum computer :)
+PS- Twist : Computer will play the game for you. The moves are in a pattern of arrow keys on your keybpard. But, as the 2048 starts with random positions of number so we can call these moves pseudorandom.
